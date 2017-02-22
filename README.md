@@ -1,0 +1,1 @@
+This application will mimic youtube's search and embed search results in this application.
